@@ -1,0 +1,1 @@
+# git_feature_wrong_merge_and_revert_and_then_rebase_test
